@@ -49,7 +49,7 @@ brightcove.com
 cwtv.com
 spike.com
 go.com
-mtv.com
+mtv.com.lb
 mtvnservices.com
 uplynk.com
 maxmind.com
