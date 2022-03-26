@@ -1,6 +1,12 @@
 {
 	"cache_domains": [
 		{
+			"name": "Mixed",
+			"description": " Mixed CDN ",
+			"domain_files": ["all.txt"]
+		},
+		{
+		
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
