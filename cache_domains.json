@@ -1,10 +1,6 @@
 {
 	"cache_domains": [
-		{
-			"name": "Mixed",
-			"description": " Mixed CDN ",
-			"domain_files": ["all.txt"]
-		},
+		
 		{
 		
 			"name": "arenanet",
