@@ -8,6 +8,12 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
+		
+			"name": "arenanet",
+			"description": "CDN for apple",
+			"domain_files": ["apple.txt"]
+		},
+		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
