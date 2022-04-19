@@ -7,3 +7,4 @@ itunes-apple.com
 swscan.apple.com
 swscan.apple.com
 *.cdn.apple.com
+mesu.apple.com
